@@ -1,12 +1,12 @@
 const React     = require('react');
 const Component = React.Component;
 
-class SubComponent extends Component {
+class Contact extends Component {
   render() {
     return(
-      <div>Hello World!</div>
+      <div>Contact Us</div>
     )
   }
 }
 
-module.exports = SubComponent;
+module.exports = Contact;

@@ -1,11 +1,13 @@
 {
   "name": "experimental",
-  "dependencies" : {
+  "dependencies": {
     "babelify": "6.3.0",
     "browserify": "~> 12.0.x",
     "browserify-incremental": "^3.0.1",
+    "history": "^1.17.0",
     "react": "0.14.x",
-    "react-dom": "0.14.x"
+    "react-dom": "0.14.x",
+    "react-router": "^1.0.3"
   },
   "license": "MIT",
   "engines": {
